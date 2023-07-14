@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class datosE {
+public class datosE {
+    int codigo;
+    int cedula;
+    String nombre;
+    String apellido;
+
 }
